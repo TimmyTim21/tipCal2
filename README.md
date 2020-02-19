@@ -2,7 +2,7 @@
 
 **tipCal2** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Timothy Stewart**
 
 Time spent: **X** hours spent in total
 
